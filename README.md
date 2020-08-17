@@ -1,2 +1,2 @@
-# botzi
-Botzi is project to make the connection between NGO and volunteers in the world
+# Botzi
+A platform of bots that integrates between NGO's and Volunteers
